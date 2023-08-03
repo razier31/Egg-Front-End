@@ -1,0 +1,52 @@
+#titulo{
+    color: rgb(113, 131, 82);
+}
+p strong{
+    color: red;
+}
+.destacado{
+    color: orange;
+}
+#subtitulo{
+    color: blue;
+}
+a{
+    color: red;
+}
+p em{
+    color: lightskyblue;
+}
+.especial{
+    color: purple;
+}
+caption{
+    display: none;
+}
+table{
+    border-collapse: collapse;
+}
+table .especial{
+    border-collapse: collapse;
+    color: orange;
+}
+tfoot{
+    color: red;
+}
+tbody td{
+    color: green;
+}
+tbody strong{
+    color: orange;
+}
+tbody tr th{
+    color: red;
+}
+#adicional{
+    color: lightslategray;
+}
+#adicional #especial{
+    color: violet;
+}
+#adicional a{
+    color: green;
+}
