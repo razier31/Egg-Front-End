@@ -1,0 +1,39 @@
+table{
+    border-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;    
+}
+.cabecera{
+    background-image: url("../Images/fondo_gris.gif");
+}
+.euro{
+    background-image: url("../Images/euro.png");
+    background-repeat: no-repeat;
+    text-align: right;
+    width: 120px;
+    background-color:  #E6F3FF;
+}
+.dolar{
+    background-image: url("../Images/dolar.png");
+    background-repeat: no-repeat;
+    text-align: right;
+    background-color:  #E6F3FF;
+}
+.libra{
+    background-image: url("../Images/libra.png");
+    background-repeat: no-repeat;
+    text-align: right;
+    background-color:  #E6F3FF;
+}
+.yen{
+    background-image: url("../Images/yen.png");
+    background-repeat: no-repeat;
+    text-align: right;
+    background-color:  #E6F3FF;
+}
+table tr:nth-child(2){
+    background-color: #FFFFCC;
+}
+table tr:nth-child(4){
+    background-color: #FFFFCC;
+}
